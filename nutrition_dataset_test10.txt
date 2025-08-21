@@ -1,0 +1,34 @@
+Title: Mini Nutrition Dataset (10 records)
+Format: Each paragraph = one document
+----
+
+
+Doc #1: User Test01 (27 yrs, Male) has condition Hypertension and activity level Sedentary. Goal: Weight Loss. For
+Lunch, recommended food is Spinach (~23 kcal). Suggested swap: Kale. Cultural preference: Veg. Frequency: Weekly.
+
+Doc #2: User Test02 (34 yrs, Male) has condition Hypertension and activity level Sedentary. Goal: Muscle Gain. For
+Lunch, recommended food is Oats (~68 kcal). Suggested swap: Ragi. Cultural preference: Veg. Frequency: Weekly.
+
+Doc #3: User Test03 (27 yrs, Female) has condition Obesity and activity level Active. Goal: Muscle Gain. For Dinner,
+recommended food is Spinach (~23 kcal). Suggested swap: Kale. Cultural preference: Non-Veg. Frequency: Daily.
+
+Doc #4: User Test04 (28 yrs, Female) has condition Hypertension and activity level Active. Goal: Weight Loss. For Lunch,
+recommended food is Oats (~68 kcal). Suggested swap: Ragi. Cultural preference: Veg. Frequency: Weekly.
+
+Doc #5: User Test05 (50 yrs, Female) has condition None and activity level Active. Goal: Weight Loss. For Lunch,
+recommended food is Oats (~68 kcal). Suggested swap: Ragi. Cultural preference: Veg. Frequency: Daily.
+
+Doc #6: User Test06 (22 yrs, Male) has condition None and activity level Active. Goal: Muscle Gain. For Breakfast,
+recommended food is Oats (~68 kcal). Suggested swap: Ragi. Cultural preference: Veg. Frequency: Daily.
+
+Doc #7: User Test07 (64 yrs, Female) has condition None and activity level Active. Goal: Muscle Gain. For Dinner,
+recommended food is Spinach (~23 kcal). Suggested swap: Kale. Cultural preference: Non-Veg. Frequency: Daily.
+
+Doc #8: User Test08 (32 yrs, Female) has condition Obesity and activity level Sedentary. Goal: Weight Loss. For
+Breakfast, recommended food is Oats (~68 kcal). Suggested swap: Ragi. Cultural preference: Vegan. Frequency: Daily.
+
+Doc #9: User Test09 (34 yrs, Female) has condition None and activity level Active. Goal: Weight Loss. For Breakfast,
+recommended food is Apple (~52 kcal). Suggested swap: Pear. Cultural preference: Vegan. Frequency: Daily.
+
+Doc #10: User Test10 (56 yrs, Female) has condition Obesity and activity level Active. Goal: Muscle Gain. For Breakfast,
+recommended food is Spinach (~23 kcal). Suggested swap: Kale. Cultural preference: Vegan. Frequency: Daily.
