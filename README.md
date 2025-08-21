@@ -25,8 +25,6 @@ This AI bridges the gap between one-size-fits-all diet apps and **real nutrition
 - **IBM watsonx.ai Granite** → Generative AI for reasoning & meal plan generation  
 - **IBM Cloud App ID (Lite)** → Authentication  
 - **IBM Cloud Object Storage (Lite)** → Storing images, food labels, PDFs  
-- **IBM Cloudant (Lite)** → JSON DB for user profiles, preferences, logs  
-- **IBM Code Engine (Lite)** → For OCR, food label parsing, ETL jobs  
 - **FastAPI / Flask API Gateway** → Backend layer  
 - **React Frontend** → Chat & planner UI (multimodal input support)  
 
@@ -35,10 +33,10 @@ This AI bridges the gap between one-size-fits-all diet apps and **real nutrition
 ## 📂 Repository Structure
 ```
 Nutrition-Agent/
-│── Nutrition Agent.ipynb   # Jupyter Notebook with prototype code
-│── README.md               # Project documentation
-│── requirements.txt        # Python dependencies (to be added)
-│── /data                   # Food database, sample logs (optional)
+│── Nutrition Agent.ipynb    
+│── README.md                
+│── requirements.txt         
+│── nutrition_dataset_test10 
 ```
 
 ---
@@ -76,21 +74,17 @@ Nutrition-Agent/
    jupyter notebook "Nutrition Agent.ipynb"
    ```
 
-5. (Optional) Deploy backend API using **IBM Code Engine**.
-
 ---
 
 ## 📊 Example Use Case
 **Input:**  
-> I am a vegetarian, want to lose 5kg in 3 months. I don’t eat onion or garlic. Suggest a 1600 kcal plan.  
+> I am from kolkata. can you suggest me vegeterian meals options?  
 
 **Output (AI Generated):**  
 - Breakfast: Vegetable upma with sprouts (350 kcal, 15g protein)  
 - Lunch: Brown rice with dal, sautéed beans (550 kcal, 20g protein)  
 - Snack: Roasted makhana + buttermilk (150 kcal, 6g protein)  
 - Dinner: Paneer curry (no onion/garlic) + chapati + salad (500 kcal, 25g protein)  
-
-Explanation: “Paneer provides high-quality protein. Whole grains keep you full. Garlic/onion excluded as per preference.”
 
 ---
 
