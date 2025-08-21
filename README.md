@@ -53,7 +53,7 @@ Nutrition-Agent/
 ## 🛠️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Nutrition-Agent.git
+   git clone https://github.com/Abantika-04/Nutrition-Agent.git
    cd Nutrition-Agent
    ```
 
